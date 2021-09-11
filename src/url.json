@@ -1,0 +1,8 @@
+{
+  "urlRandom": "https://api.chucknorris.io/jokes/random",
+  "urlCategories": "https://api.chucknorris.io/jokes/categories",
+  "urlPerCategory": "https://api.chucknorris.io/jokes/random?category="
+
+
+
+}
